@@ -1,0 +1,40 @@
+.office-form {
+  background-color: mediumblue;
+  padding: 0.5cm;
+  padding-bottom: 0;
+  text-align: center;
+  border-radius: 12px;
+}
+.time {
+  float: left;
+  margin-right: 1cm;
+}
+.task {
+  float: left;
+  margin-right: 1cm;
+}
+.prio {
+  float: left;
+  margin-right: 1cm;
+}
+.su {
+  margin: 0.5cm;
+}
+.border {
+  background-color: orangered;
+  padding: 0.2cm;
+  margin: 0.3em;
+}
+
+.t {
+  margin-right: 1cm;
+}
+.n {
+  margin-right: 1cm;
+}
+.f {
+  margin-right: 1cm;
+}
+.w {
+  margin-right: 1cm;
+}
